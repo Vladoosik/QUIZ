@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvlone">"Here everything is simple, you need to choose a number that is larger.\n
+        Questions can be repeated until you score 20 points."</string>
+    <string name="lvloneEnd">"Congratulations, the level is passed, the next ones will be harder (but this is not accurate).\n
+Did you know that the number 7 is considered the happiest number? There are 7 days in a week, 7 continents, 7 colors of the rainbow, 7 musical notes and much more.
+Also, the number 7 is most often the favorite number of people around the world."</string>
+    <string name="lvltwo">"It became a little harder, you need to choose a Roman numeral that is larger.\n
+        Questions can be repeated until you score 20 points."</string>
+    <string name="lvltwoEnd">"Congratulations, level passed.\n
+        By the way, the most attentive ones probably noticed that there was no zero in this level, all because there is no zero in Roman numerals"</string>
+    <string name="lvlthree">Which animal shows the most tongue ?\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlthreeEnd">"Congratulations, level passed.\n
+        Did you know that when a woodpecker strikes a tree with its beak, it retracts its tongue and wraps its brain to protect it."</string>
+    <string name="lvlfour">Which of the proposed edible ?\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlfourEnd">"Congratulations, level passed.\n
+        Manycrocodiles are known to swallow rocks, not because they are edible, but because they help them sink into the water faster and stay at the bottom"</string>
+        <string name="lvlfive">Which of the following is louder ?\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlfiveEnd">"Congratulations, level passed.\n
+Did you know that "A" is the most common sound in the world. It is found in all the languages of our planet. And in total, there are about 6.5–7 thousand of them in the world. Most people speak Chinese, Spanish, Hindi, English, Russian, Portuguese, and Arabic."</string>
+    <string name="lvlsix">Which of the offered items is more expensive ?\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlsixEnd">"Congratulations, level passed.\n
+        Did you know that in most nations around the world, the most common substitute for money is livestock"</string>
+    <string name="lvlseven">Which of the suggested items weighs more ?\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlsevenEnd">"Congratulations, level passed.\n
+        Did you know that on the surface of the earth, gravity is not uniform, because our planet is not a perfect ball, and its mass is distributed unevenly. For example, at the equator, the force of attraction is weaker than at the poles"</string>
+    <string name="lvleight">Кwhich of the animals is smarter ?\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvleightEnd">Congratulations, level passed.\n
+        Did you know that the average weight of the dolphin brain is 1 kilogram 700 grams, while the adult brain has a weight of 1 kilogram 400 grams. The brains of these animals are unique. The fact is that the dolphin never sleeps completely. The left and right hemispheres take turns resting..</string>
+    <string name="lvlnine">Who or what is faster ?\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlnineEnd">Congratulations, level passed\n
+And you knew that the Cheetah is the fastest predator on earth. The slender body and long legs help it to overtake the victim in a matter of seconds</string>
+    <string name="lvlten">Which of the proposed live ? \n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltenEnd">"Congratulations, level passed.Did you
+know that jellyfish doesn't have a brain?"</string>
+    <string name="lvleleven">Which animal can swim ? \n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlelevenEnd">"Congratulations, level passed.\n
+        Did you know that the sea swordfish is the fastest fish that can reach speeds of up to 130 kilometers per hour. For such speeds, you need space. Therefore, it can only be found in the open ocean."</string>
+    <string name="lvltvelve">Which of the animals will last longer without water ? \n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltwelveEnd">"Congratulations, level passed.\n
+Did you know that a koala can live without water for 15 years, and they quench their thirst with the help of leaves "</string>
+    <string name="lvlthernteen">Choose furry or feathered \n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltherteenEnd">"Congratulations, level passed.\n
+        Did you know that the only bird in the world that doesn't have wings at all is the kiwi?"</string>
+    <string name="lvlfourteen">Choose a predatory animal\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlfourteenEnd">"Congratulations, level passed.\m
+        Did you know that predators are one of the most dangerous animals on Earth? They come in a variety of shapes and sizes, ranging from 30-gram weasels to 500-pound bears, and their diet includes everything that moves, from birds, fish, reptiles to other mammals."</string>
+    <string name="lvlfiveteen">Which of the animals will not freeze in the winter ?\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlfiveteenEnd">"Congratulations, level passed.\n
+And did you know that in Latin the name of the walrus-Odobenus rosmarus can be translated as "walking with the help of teeth of a sea horse". When a walrus uses its prominent tusks to pull its heavy body out of the water onto an ice floe, it looks as if it is "walking" with its tusks, hence the name."</string>
+    <string name="lvlsixteen">Which animal can jump? \n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlsixteenEnd">"Congratulations, level passed.\n
+        Did you know that the best jumper in the world is a common flea? By their size, they are the longest and tallest jumpers of all animals. Fleas can jump at distances 220 times longer than their own body and 150 times higher than their own height! It would be like jumping almost 400m in length, jumping over a 250m high building."</string>
+    <string name="lvlseventeen">What animals have teeth ?\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlseventeenEnd">"Congratulations, level passed.\n
+        Did you know that the age of a dolphin can be determined by its teeth? As in tree trunks, dolphins have age rings in their teeth. But these marine mammals do not use their teeth for chewing, they swallow food whole, because they have no muscles in their jaws."</string>
+    <string name="lvleightteen">Choose a fruit \n
+        The questions can be repeated until you score 20 points.</string>
+    <string name="lvleightteenEnd">"Congratulations, level passed.\n
+Did you know that in scientific terms, a fruit is a part of a tree or shrub that contains seeds. That is, if it has seeds, then it is a fruit. "</string>
+    <string name="lvlnineteen">What is made of wood \n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlnineteenEnd">"Congratulations, level passed.\n
+        Did you know that in Canada, scientists have also proved that the texture of wood and the warm natural color have a very positive effect on the health and mood of a person and cause calm and harmony in the soul."</string>
+    <string name="lvltwenty">Choose something that does not exist \n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltwentyEnd">"Пcongratulations, level passed.\n
+Did you know that magic doesn't exist"</string>
+    <string name="lvltwentyone">It has become much harder, Choose from the countries that are larger\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltwentyoneEnd">"Congratulations, level passed.\n
+Did you know that the country with the largest number of lakes is Canada. 60% of all lakes in the world are located in Canada: more than 3,000,000 lakes, covering 9% of Canadian land."</string>
+    <string name="lvltwentytwo">Which clock shows the most time ?\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltwentytwoEnd">"Congratulations, level passed.\n
+Did you know that almost all progressive humanity (except the United States) does not use the notation AM (ante meridiem-before noon) and PM (post meridiem-after noon), as there is a lot of confusion"</string>
+    <string name="lvltwentythree">What things are made of oil ?\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltwentythreeEnd">"Congratulations, level passed.\n
+Did you know that more than 72 things are made from oil, including food products "</string>
+    <string name="lvltwentyfour">Which of the colors is more vivid ?\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltwentyfourEnd">"Congratulations, level passed.\n
+        Did you know that if you look at red shades for a long time, your pulse will speed up, but at the same time it encourages you to exercise. That is why sports teams choose it as the main color of their uniforms."</string>
+    <string name="lvltwentyfive">Choose from great people only composers \n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltwentyfiveEnd">"Congratulations, level passed.\n
+Did you know that Russian classical composer Mikhail Ivanovich Glinka is considered to be the founder of Russian classical music and the first Russian classical composer who managed to achieve world fame."</string>
+    <string name="lvltwentysix">Choose characters only from Greek mythology\n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltwentysixEnd">"Congratulations, level passed.\n
+        Did you know that the planet Mars is named after the god of war Ares-Mars, because it has a red, "bloody" color. And its satellites, discovered in 1877, are named after the sons of Ares – Phobos (god of fear) and Deimos (god of terror)."</string>
+    <string name="lvltwentyseven">Choose the planets that are closer to the sun \n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltwentysevenEnd">"Congratulations, level passed.\n
+And did you know that the planet Eris is the same dwarf planet as Pluto, which was found in 2006, and I added it because I wanted to make the level a little heavier :)"</string>
+    <string name="lvltwentyeight">Choose only Olympic sports \n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltwentyeightEnd">"Congratulations, level passed.\n
+        Did you know that at the Berlin Games in 1936, the first official basketball competitions were held on a sand court, which turned to mud due to rain."</string>
+    <string name="lvltwentynine">Choose only Japanese dishes \n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvltwentynineEnd">"Congratulations, level passed.\n
+        Did you know that a typical Japanese meal consists of rice served with meat, fish, or vegetables?"</string>
+    <string name="lvlthirteen">Choose the densest substances \n
+Questions can be repeated until you score 20 points.</string>
+    <string name="lvlthirteenEnd">"Congratulations, level passed.\n
+        Did you know that Osmium is considered the densest of all simple substances, slightly surpassing iridium in this parameter. The density of osmium is 22.61 g / cm."</string>
+</resources>
+
+
